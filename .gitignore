@@ -1,0 +1,8 @@
+# Editor and local tool state
+.DS_Store
+.kilo/
+
+# Old Three.js experiments; keep the live portfolio as the repository entry point
+main_test.js
+simple.html
+test.html
